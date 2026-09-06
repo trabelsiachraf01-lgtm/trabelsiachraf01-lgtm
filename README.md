@@ -41,4 +41,4 @@ English (C1) · French (C1) · German (A2) · Arabic (native)
 ## 📫 Reach me
 
 - Email: **trabelsi.achraf.01@gmail.com**
-- LinkedIn: *(add link)*
+- LinkedIn: **[achref-trabelsi](https://www.linkedin.com/in/achref-trabelsi/)**
