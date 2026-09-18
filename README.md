@@ -28,6 +28,7 @@ Previously at **JobLeads** (semantic job matching over 10M+ records, <100ms late
 
 | Project | What it is |
 |---|---|
+| [**Hushtone**](https://github.com/trabelsiachraf01-lgtm/mood-matcher) | Cross-modal mood matcher — image, song, or text in, a real matched song/image out (Postgres+pgvector, EBind embeddings), or an original track generated on the spot via **ElevenLabs Music**. |
 | [**e-commerce_agent**](https://github.com/trabelsiachraf01-lgtm/e-commerce_agent) | Multi-agent customer-service assistant (FastAPI + GPT-4o-mini) with an orchestrator routing to product-search / order-tracking / cancellation agents. Multi-layered search: exact → fuzzy → semantic. |
 | [**sentiment_analysis_SLM**](https://github.com/trabelsiachraf01-lgtm/sentiment_analysis_SLM) | Benchmarking quantized small language models (Qwen2.5 0.5B vs 1.5B) for sentiment analysis — prompt engineering, inference tuning, and a full evaluation harness. |
 | [**de-practice**](https://github.com/trabelsiachraf01-lgtm/de-practice) | *Genus* — a Next.js PWA that drills German noun genders with LLM-generated words, schema-constrained output, instant feedback, and grammar rules. |
