@@ -8,7 +8,7 @@ My focus: multi-agent architectures, RAG pipelines, and the evaluation framework
 
 ## 🔭 What I'm working on
 
-**AI Engineer II @ Zendesk** — architecting a multi-channel (chat + email) agentic workflow: an orchestrator that reasons across multi-intent requests, plans execution, and routes to parallel sub-agents via tool calling, with memory persistence for multi-turn context. Also authored the RFC for high-availability LLM failover across Vertex AI / Azure / OpenAI.
+**AI Engineer II @ Zendesk** — architecting a multi-channel (chat + email) agentic workflow: an orchestrator that reasons across multi-intent requests, plans execution, and routes to parallel sub-agents via tool calling, with memory persistence for multi-turn context.
 
 Previously at **JobLeads** (semantic job matching over 10M+ records, <100ms latency) and **Neuroflash** (production RAG grounded in verified sources, LLM-as-Judge pipelines).
 
